@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Meu APP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Olá fragmento em branco</string>
+    <string name="str_bus">Ônibus</string>
+    <string name="str_subway">Metrô</string>
+    <string name="title_activity_listing">Listagem</string>
+    <string name="msg_example">Exemplo de utilização do FloatingActionButton!</string>
+    <string name="tabs_aba_img_name">"   %s"</string>
+    <string name="enum_bus">Ônibus</string>
+    <string name="enum_subway">Metrô</string>
+    <string name="str_ok">Ok</string>
+    <string name="str_cancelar">Cancelar</string>
+</resources>
